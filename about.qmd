@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+# Who am I
+I am an aspiring Business Analyst passionate about solving business challenges, optimizing processes, and driving decisions through
+data-driven solutions. Currently pursuing a Master’s in Business Analytics at UC Irvine and bringing 2 years of professional
+experience, I have expertise in Python, PowerBI, SQL, Excel, Azure, and Agile methodologies. I excel at leveraging technology and
+communication to enhance strategic decision-making and client engagement.
+
